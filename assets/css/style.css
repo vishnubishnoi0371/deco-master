@@ -282,12 +282,8 @@
 
 .head-slide {
     font-family: 'Poppins', sans-serif;
-
     font-style: normal;
-
     line-height: normal;
-
-
 }
 
 .card-news {
@@ -411,7 +407,6 @@
     left: 45%;
 }
 
-
 .line-6 {
     position: absolute;
     top: 30%;
@@ -466,8 +461,6 @@
 .circle-img {
     border-radius: 50%;
 }
-
-
 
 .team-bg-clr {
     background: #010080;
